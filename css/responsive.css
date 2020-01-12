@@ -1,0 +1,9 @@
+
+
+/* Media querry for smartphones */
+@media (max-device-width:767px) {
+  .section {
+    display: block;
+    width: 100%;
+  }
+  }
